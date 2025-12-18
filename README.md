@@ -1,5 +1,7 @@
-# LittleGodotFun
-Prosty program do komunikacji między dwoma grami godotowymi oraz instrukcja do robienia własnych okienek do gier godotowych.
+# Jak porozumiewali się bracia koguty?
+Oto prosty program do komunikacji między dwoma grami godotowymi, który posłużył mi jako prototyp sygnału z Chicken Invaders i Evaders na dżemie growym.
+
+Znajdował się w nim także prototyp robienia własnych okienek do gier godotowych (chociaż ostatecznie nie został użyty).
 
 # Instrukcja do komunikacji międzygrowej
 Stwórz dwa projekty w godocie. Do jednego wsadź game_a.tscn i game_a.gd, a do drugiej game_b.
